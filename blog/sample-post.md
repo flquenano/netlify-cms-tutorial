@@ -1,5 +1,5 @@
 ---
-path: /post/pages
+path: post/pages
 date: 2020-10-02T05:27:57.300Z
 title: Sample Post
 ---
